@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aayush Kumar @Aayush-k16
+- 👀 I’m interested in AI/ML and Information Security
+- 🌱 I’m currently learning ML implementation in Information Security
+- 💞️ I’m looking to collaborate on (-)
+- 📫 Reach me out on kumar.aayush1609@gmail.com 
